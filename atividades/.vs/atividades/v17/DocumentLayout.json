@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emanuell_H\\source\\repos\\atividades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F4F46F-7977-47C1-B67E-B70F65F9FAB4}|atividades\\atividades.vcxproj|C:\\Users\\Emanuell_H\\source\\repos\\atividades\\atividades\\atividades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72F4F46F-7977-47C1-B67E-B70F65F9FAB4}|atividades\\atividades.vcxproj|solutionrelative:atividades\\atividades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "atividades.cpp",
+              "DocumentMoniker": "C:\\Users\\Emanuell_H\\source\\repos\\atividades\\atividades\\atividades.cpp",
+              "RelativeDocumentMoniker": "atividades\\atividades.cpp",
+              "ToolTip": "C:\\Users\\Emanuell_H\\source\\repos\\atividades\\atividades\\atividades.cpp",
+              "RelativeToolTip": "atividades\\atividades.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T01:41:20.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
